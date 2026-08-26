@@ -13,8 +13,26 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/codesAtharv/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/codesAtharv/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/codesAtharv/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/codesAtharv/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codesAtharv/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codesAtharv/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codesAtharv/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codesAtharv/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
