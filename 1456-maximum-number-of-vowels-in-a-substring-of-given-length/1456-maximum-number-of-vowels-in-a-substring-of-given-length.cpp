@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxVowels(string s, int k) {
+    int maxVowels(string s, int k) {//classic fixed length question of sliding window 
         int count=0;
         int countmax=0;
         for(int i=0;i<k;i++){
